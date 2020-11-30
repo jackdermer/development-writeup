@@ -1,0 +1,77 @@
+body {
+    font-family: Gill Sans, sans-serif;
+    font-weight: lighter;
+    background-color: white;
+    margin-top: 15px;
+    color: lightslategrey;
+    font-size: 20px;
+}
+
+.main-section {
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+img {
+    object-fit: cover;
+    width: 100%;
+}
+
+.card-image {
+    margin-left: 50px;
+    width: 25vw;
+}
+
+h1 {
+    font-size: 80px;
+    font-weight: lighter;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    color: white;
+}
+
+h2 {
+    font-size: 50px;
+    font-weight: lighter;
+    margin-right: 200px;
+}
+
+h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.center {
+    text-align: center;
+}
+
+mark {
+    background-color: #b0c9f8;
+    color: white;
+}
+
+.section {
+    margin-left: 15vw;
+    margin-right: 15vw;
+}
+
+.img-div {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+hr {
+    margin-bottom: 40px;
+}
+
+.section-h2 {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+.card-row {
+    padding-bottom: 80px;
+}
+
+.my-nav {
+}
